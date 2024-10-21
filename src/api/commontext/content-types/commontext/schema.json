@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "commontexts",
+  "info": {
+    "singularName": "commontext",
+    "pluralName": "commontexts",
+    "displayName": "Commontext"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about": {
+      "type": "text"
+    },
+    "biography": {
+      "type": "text"
+    }
+  }
+}
